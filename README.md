@@ -5,6 +5,7 @@ Board that makes some lights blink in sequence.
 <img width="900" height="573" alt="Screenshot 2026-02-25 221843" src="https://github.com/user-attachments/assets/0dda8196-e089-404e-83ae-b437401722dd" />
 
 BOM:
+
 1X NE555P
 
 1X CD4017 
