@@ -6,10 +6,17 @@ Board that makes some lights blink in sequence.
 
 BOM:
 1X NE555P
+
 1X CD4017 
+
 1X Conn01x02Socket / Conn01x01Socket 
+
 1X C_Polarized 
+
 1X C 
+
 2X R 
+
 1X RV
+
 10X LEDS
